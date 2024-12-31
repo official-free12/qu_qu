@@ -1,0 +1,6 @@
+# 区块链理财|USDT理财|货币投资理财定期活期源码
+
+购买说明：<br>特此声明：本源码仅供源码爱好者学习交流使用，用途仅限于测试实验、研究学习为目的，严禁用于不合法用途，购买用户禁止将本产品使用于与中国法律相违背的一切行为，请遵守中国法律法规，不要触碰法律！否则，请不要购买，如果坚持购买并用于不合法用途，一切法律责任和所有后果均由购买方承担，与本店无关。<br>（购买就等同认同以上声明）<br>区块链定期活期理财系统，USDT理财<br>注册奖 -直推奖-管理奖<br>注册奖-注册成功后奖励多少U<br>直推奖-直推的下线充值购买了理财后奖励百分之多少<br>管理奖-推荐的下线购买的理财后产生利息，每天有奖励<br>演示地址http://example.com测试账号 admin 123456<br>后台功能：<br>会员管理：会员列表主要查看会员的昵称，账号密码，ip，认证情况，账号金额信息，会员的余额变动<br>用户提币管理：查看待提现，已经通过的，已经拒绝的不走接口的，能查看提现的钱包地址，手续费，实际到账金额，<br>钱包管理：查看用户的钱包的信息，需要对接接口，接口打通之后可以根据钱包地址查询对方的U有多少，还有e的数据，更新需要手动点击。<br>理财产品管理：发布理财产品<br>订单管理：查询用户购买理财的相关产品信息<br>交易记录：查询运用的交易详情，钱包地址<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/t6xbO" style="color: red;">https://mega-file.org/t6xbO</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
